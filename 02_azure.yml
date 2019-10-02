@@ -3,9 +3,9 @@
   connection: local
   vars:
     location: northeurope
-    virtual_network_name: webserver_userxx
+    virtual_network_name: webserver_user2
     subnet: Webserver
-    resource_group: webserver_userxx
+    resource_group: webserver_user2
     domain_sub: domainuserxx
 
   vars_prompt:
